@@ -111,9 +111,9 @@ var nb_en_lettres = 258;
 console.log(nb_en_lettres);
 console.log(typeof nb_en_letters);
 
-var nb_en_letters = nb_en_letters.toString();
-console.log(nb_en_letters);
-console.log(typeof nb_en_letters);
+var nb_en_lettres = nb_en_lettres.toString();
+console.log(nb_en_lettres);
+console.log(typeof nb_en_lettres);
 
 // FIN
 
